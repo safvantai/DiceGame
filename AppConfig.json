@@ -1,0 +1,10 @@
+{
+	"TickTime" : 500,
+	"LogLevel" : "WARN",
+	"ListenPort" : 12346,
+	"MasterHost" : 127.0.0.1,
+	"AdminUsername" : "admin",
+	"AdminPassword" : "password",
+	"HSQLDBFile" : "HSQLDBFile",
+	"LICENSE_KEY" : ""
+}
